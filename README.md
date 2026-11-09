@@ -76,4 +76,24 @@ Spring AI JDBC Chat Memory manages message persistence.
 
 **Rishabh Shrivastava**
 
-Java Full Stack Developer |
+Java Full Stack Developer 
+
+
+## Development Update – 09 November 2026
+
+**Project Status:** Development Completed Locally – GitHub Upload Pending
+
+**Current Progress:**
+- Complete Spring Boot project developed locally.
+- Project packages and application structure implemented.
+- Configuration, Controller, DTO, Entity, Repository, Service, Exception and Utility packages created.
+- Main application class and Maven configuration completed.
+
+**GitHub Status:**
+- Initial project structure uploaded to GitHub.
+- Remaining source code and implementation files are yet to be uploaded.
+
+**Next Step:**
+- Upload the complete project source code to GitHub.
+- Verify the uploaded code and repository structure.
+- 
